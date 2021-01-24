@@ -5,4 +5,6 @@ Developed simple website for photo sharing app using Bootstrap Framework
 
 ![about](https://user-images.githubusercontent.com/64096110/105628327-3beb1480-5e62-11eb-9f49-6d0662799bf7.png)
 
-![first page](https://user-images.githubusercontent.com/64096110/105628330-41485f00-5e62-11eb-852e-8f44b4378343.png)
+![contant us](https://user-images.githubusercontent.com/64096110/105628368-75238480-5e62-11eb-8b7c-d75eac5cfd76.png)
+
+
